@@ -1,0 +1,5 @@
+
+n	java:S135
+"YReduce the total number of break and continue statements in this loop to use at most one.(µÄêä
+U
+java:S1854":Remove this useless assignment to local variable "theSum".(°õ˜²üÿÿÿÿ

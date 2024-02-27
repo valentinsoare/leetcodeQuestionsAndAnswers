@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RunManager" selected="Application.ContainsDuplicateTwo">
+    <configuration name="ContainsDuplicateTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="playing.leetcode.slidingwindow.ContainsDuplicateTwo" />
+      <module name="leetcodeQuestionsAndAnswers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="playing.leetcode.slidingwindow.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindPivotIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="playing.leetcode.prefixsum.FindPivotIndex" />
+      <module name="leetcodeQuestionsAndAnswers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="playing.leetcode.prefixsum.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ContainsDuplicateTwo" />
+        <item itemvalue="Application.FindPivotIndex" />
+      </list>
+    </recent_temporary>
+  </component>
+</project>
