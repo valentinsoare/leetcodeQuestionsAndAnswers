@@ -1,12 +1,110 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="RunManager" selected="Application.ContainsDuplicateTwo">
-    <configuration name="ContainsDuplicateTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="playing.leetcode.slidingwindow.ContainsDuplicateTwo" />
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8a75ba92-06f9-4087-ac5a-ed4e941dea34" name="Changes" comment="Cleaning the repo..">
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/hashing/CheckIfAllCharactersHaveEqualNumberOfOccurrences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/hashing/CheckIfTheSentenceIsPangram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/hashing/CountingElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/hashing/FIndLongestSubString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/hashing/IntersectionOfMultipleArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/hashing/MissingNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/4/24c099ffce2dcbe540a9f2191cd12590b95648f1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/a/2aa4ef608c3cd427e95fd3af2caafa01e77739bd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/f/4f8ab959d0c343a00b325f8e616a8da8d4eeead8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/3/63dd86ffe7a13fc4b62d86fb2a650b257ac7d7e0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/6/664b41f627860f85700afd8698834feb2692c158" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/8/98781b5154795d3191d583d9a7f374586f2196d0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/a/9a55f38d79372e8dc31464133be9539ae1980df3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/7/b72cb6ff3a01dafa1134d839b418f6d4e58cf4eb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/9/b9b7528583f5b9f27343d0c6371ad3362118fbd1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/5/e5d3e2ba642acf887d555d0603525f5fff34c624" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/2/4/24c099ffce2dcbe540a9f2191cd12590b95648f1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/2/a/2aa4ef608c3cd427e95fd3af2caafa01e77739bd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/f/4f8ab959d0c343a00b325f8e616a8da8d4eeead8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/6/3/63dd86ffe7a13fc4b62d86fb2a650b257ac7d7e0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/6/6/664b41f627860f85700afd8698834feb2692c158" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/9/8/98781b5154795d3191d583d9a7f374586f2196d0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/9/a/9a55f38d79372e8dc31464133be9539ae1980df3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/b/7/b72cb6ff3a01dafa1134d839b418f6d4e58cf4eb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/b/9/b9b7528583f5b9f27343d0c6371ad3362118fbd1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/e/5/e5d3e2ba642acf887d555d0603525f5fff34c624" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/hashset/ContainsDuplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/hashing/ContainsDuplicate.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2cvkfqOLyAleMZ5H7qB1RWkL7uv" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.CheckIfAllCharactersHaveEqualNumberOfOccurrences.executor": "Run",
+    "Application.CheckIfTheSentenceIsPangram.executor": "Run",
+    "Application.ContainsDuplicateTwo.executor": "Run",
+    "Application.CountingElements.executor": "Run",
+    "Application.FIndLongestSubString.executor": "Run",
+    "Application.FindPivotIndex.executor": "Run",
+    "Application.IntersectionOfMultipleArrays.executor": "Run",
+    "Application.MissingNumber.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "true",
+    "Repository.Attach.JavaDocs": "true",
+    "Repository.Attach.Sources": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/vsoare/Documents/projectsLongTerm/leetcodeQuestionsAndAnswers",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.39609236",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.CheckIfAllCharactersHaveEqualNumberOfOccurrences">
+    <configuration name="CheckIfAllCharactersHaveEqualNumberOfOccurrences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.leetcode.hashing.CheckIfAllCharactersHaveEqualNumberOfOccurrences" />
       <module name="leetcodeQuestionsAndAnswers" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="playing.leetcode.slidingwindow.*" />
+          <option name="PATTERN" value="main.java.leetcode.hashing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -14,12 +112,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindPivotIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="playing.leetcode.prefixsum.FindPivotIndex" />
+    <configuration name="CountingElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.leetcode.hashing.CountingElements" />
       <module name="leetcodeQuestionsAndAnswers" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="playing.leetcode.prefixsum.*" />
+          <option name="PATTERN" value="main.java.leetcode.hashing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FIndLongestSubString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.leetcode.hashing.FIndLongestSubString" />
+      <module name="leetcodeQuestionsAndAnswers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.leetcode.hashing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IntersectionOfMultipleArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.leetcode.hashing.IntersectionOfMultipleArrays" />
+      <module name="leetcodeQuestionsAndAnswers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.leetcode.hashing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MissingNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.leetcode.hashing.MissingNumber" />
+      <module name="leetcodeQuestionsAndAnswers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.leetcode.hashing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -29,9 +166,67 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ContainsDuplicateTwo" />
-        <item itemvalue="Application.FindPivotIndex" />
+        <item itemvalue="Application.CheckIfAllCharactersHaveEqualNumberOfOccurrences" />
+        <item itemvalue="Application.IntersectionOfMultipleArrays" />
+        <item itemvalue="Application.FIndLongestSubString" />
+        <item itemvalue="Application.CountingElements" />
+        <item itemvalue="Application.MissingNumber" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-25a4bffe" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a75ba92-06f9-4087-ac5a-ed4e941dea34" name="Changes" comment="" />
+      <created>1708999546042</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708999546042</updated>
+      <workItem from="1708999547071" duration="1234000" />
+      <workItem from="1709011962874" duration="13283000" />
+    </task>
+    <task id="LOCAL-00001" summary="Learning techniques of how to approach and solve different algo and ds questions with the best time complexity possible.">
+      <option name="closed" value="true" />
+      <created>1708999879732</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708999879732</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Clean and simple maintenance...">
+      <option name="closed" value="true" />
+      <created>1708999961472</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1708999961472</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Cleaning the repo..">
+      <option name="closed" value="true" />
+      <created>1709000120502</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1709000120502</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Learning techniques of how to approach and solve different algo and ds questions with the best time complexity possible." />
+    <MESSAGE value="Clean and simple maintenance..." />
+    <MESSAGE value="Cleaning the repo.." />
+    <option name="LAST_COMMIT_MESSAGE" value="Cleaning the repo.." />
   </component>
 </project>
