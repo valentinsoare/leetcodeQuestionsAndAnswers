@@ -4,37 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8a75ba92-06f9-4087-ac5a-ed4e941dea34" name="Changes" comment="Cleaning the repo..">
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/hashing/CheckIfAllCharactersHaveEqualNumberOfOccurrences.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/hashing/CheckIfTheSentenceIsPangram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/hashing/CountingElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/hashing/FIndLongestSubString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/hashing/IntersectionOfMultipleArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/hashing/MissingNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/4/24c099ffce2dcbe540a9f2191cd12590b95648f1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/a/2aa4ef608c3cd427e95fd3af2caafa01e77739bd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/f/4f8ab959d0c343a00b325f8e616a8da8d4eeead8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/3/63dd86ffe7a13fc4b62d86fb2a650b257ac7d7e0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/6/664b41f627860f85700afd8698834feb2692c158" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/8/98781b5154795d3191d583d9a7f374586f2196d0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/a/9a55f38d79372e8dc31464133be9539ae1980df3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/7/b72cb6ff3a01dafa1134d839b418f6d4e58cf4eb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/9/b9b7528583f5b9f27343d0c6371ad3362118fbd1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/5/e5d3e2ba642acf887d555d0603525f5fff34c624" beforeDir="false" />
+    <list default="true" id="8a75ba92-06f9-4087-ac5a-ed4e941dea34" name="Changes" comment="More questions and answers for Hashing category from LeetCode!">
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/hashing/SubarraySumEqualsK.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/2/4/24c099ffce2dcbe540a9f2191cd12590b95648f1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/2/a/2aa4ef608c3cd427e95fd3af2caafa01e77739bd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/f/4f8ab959d0c343a00b325f8e616a8da8d4eeead8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/6/3/63dd86ffe7a13fc4b62d86fb2a650b257ac7d7e0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/6/6/664b41f627860f85700afd8698834feb2692c158" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/9/8/98781b5154795d3191d583d9a7f374586f2196d0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/9/a/9a55f38d79372e8dc31464133be9539ae1980df3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/b/7/b72cb6ff3a01dafa1134d839b418f6d4e58cf4eb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/b/9/b9b7528583f5b9f27343d0c6371ad3362118fbd1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/e/5/e5d3e2ba642acf887d555d0603525f5fff34c624" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/hashset/ContainsDuplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/hashing/ContainsDuplicate.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +51,7 @@
     "Application.FindPivotIndex.executor": "Run",
     "Application.IntersectionOfMultipleArrays.executor": "Run",
     "Application.MissingNumber.executor": "Run",
+    "Application.SubarraySumEqualsK.executor": "Run",
     "Downloaded.Files.Path.Enabled": "false",
     "Repository.Attach.Annotations": "true",
     "Repository.Attach.JavaDocs": "true",
@@ -98,7 +73,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.CheckIfAllCharactersHaveEqualNumberOfOccurrences">
+  <component name="RunManager" selected="Application.SubarraySumEqualsK">
     <configuration name="CheckIfAllCharactersHaveEqualNumberOfOccurrences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.java.leetcode.hashing.CheckIfAllCharactersHaveEqualNumberOfOccurrences" />
       <module name="leetcodeQuestionsAndAnswers" />
@@ -151,8 +126,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MissingNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.leetcode.hashing.MissingNumber" />
+    <configuration name="SubarraySumEqualsK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.leetcode.hashing.SubarraySumEqualsK" />
       <module name="leetcodeQuestionsAndAnswers" />
       <extension name="coverage">
         <pattern>
@@ -166,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SubarraySumEqualsK" />
         <item itemvalue="Application.CheckIfAllCharactersHaveEqualNumberOfOccurrences" />
         <item itemvalue="Application.IntersectionOfMultipleArrays" />
         <item itemvalue="Application.FIndLongestSubString" />
         <item itemvalue="Application.CountingElements" />
-        <item itemvalue="Application.MissingNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -190,7 +165,7 @@
       <option name="presentableId" value="Default" />
       <updated>1708999546042</updated>
       <workItem from="1708999547071" duration="1234000" />
-      <workItem from="1709011962874" duration="13283000" />
+      <workItem from="1709011962874" duration="18955000" />
     </task>
     <task id="LOCAL-00001" summary="Learning techniques of how to approach and solve different algo and ds questions with the best time complexity possible.">
       <option name="closed" value="true" />
@@ -216,7 +191,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709000120502</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="More questions and answers for Hashing category from LeetCode!">
+      <option name="closed" value="true" />
+      <created>1709156962458</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1709156962458</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -227,6 +210,7 @@
     <MESSAGE value="Learning techniques of how to approach and solve different algo and ds questions with the best time complexity possible." />
     <MESSAGE value="Clean and simple maintenance..." />
     <MESSAGE value="Cleaning the repo.." />
-    <option name="LAST_COMMIT_MESSAGE" value="Cleaning the repo.." />
+    <MESSAGE value="More questions and answers for Hashing category from LeetCode!" />
+    <option name="LAST_COMMIT_MESSAGE" value="More questions and answers for Hashing category from LeetCode!" />
   </component>
 </project>
