@@ -451,3 +451,17 @@ Tsrc/main/java/leetcode/hashing/CheckIfAllCharactersHaveEqualNumberOfOccurrences
 Nsrc/main/java/leetcode/slidingwindow/FindNumberOfSubArraysWithSumLessThan.java,a/b/abd66754ac14636877894d4b913ef5655d019e4e
 f
 6src/main/java/leetcode/hashing/SubarraySumEqualsK.java,9/e/9e68bc97b241e5e954e87f87b39fa2671a988c32
+n
+>src/main/java/leetcode/hashing/CountNumberOfNiceSubArrays.java,0/1/01c2b12417ee19ac2834d6842f0a5e35cfb87a73
+r
+Bsrc/main/java/leetcode/hashing/FindPlayersWithZeroOrOneLosses.java,4/d/4d4ad68c8e5ca411d77c89bd5c8d4e8f5ecaf438
+g
+7src/main/java/leetcode/hashing/LargestUniqueNumber.java,7/6/767c3a23e943beaae15ef6b217797bd2f16a737a
+k
+;src/main/java/leetcode/hashing/MaximumNumberOfBalloons.java,0/4/044f2df3c524ea871a6dcb9fe54eb5b6b75c9b9b
+c
+3src/main/java/leetcode/hashing/ContiguousArray.java,d/3/d3195d0fb18cf873d8bc6b7cf142f57ca8bb0483
+a
+1src/main/java/leetcode/hashing/GroupAnagrams.java,3/6/369cd46fed1745a663db8ef55ebafbf41c9b957a
+s
+Csrc/main/java/leetcode/hashing/MinimumConsecutiveCardsToPickUp.java,d/f/dfc909e62cbe505f538d41d46c39c3eca5a5751a
