@@ -1,9 +1,7 @@
 package main.java.leetcode.hashing;
 
 import java.util.HashMap;
-import java.util.HashSet;
 import java.util.Map;
-import java.util.Set;
 
 public class MinimumConsecutiveCardsToPickUp {
 
@@ -26,6 +24,6 @@ public class MinimumConsecutiveCardsToPickUp {
     }
 
     public static void main(String[] args) {
-        System.out.printf("%n%s", minimumCardPickup(new int[]{1, 0, 5, 3}));
+        System.out.printf("%n%s", minimumCardPickup(new int[]{3, 4, 2, 3, 4, 7}));
     }
 }

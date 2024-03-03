@@ -4,17 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8a75ba92-06f9-4087-ac5a-ed4e941dea34" name="Changes" comment="Continuing my journey with LeetCode - 78 questions">
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/hashing/ContiguousArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/hashing/CountNumberOfNiceSubArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/hashing/FindPlayersWithZeroOrOneLosses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/hashing/GroupAnagrams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/hashing/LargestUniqueNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/hashing/MaximumNumberOfBalloons.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/hashing/MinimumConsecutiveCardsToPickUp.java" afterDir="false" />
+    <list default="true" id="8a75ba92-06f9-4087-ac5a-ed4e941dea34" name="Changes" comment="More questions and answers with HashMap and Sliding Window...">
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/arrays/FindWordsContainingCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/hashing/EqualRowAndColumnPairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/hashing/MaxSumOfAPairWithEqualSumOfDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/hashing/MaximumOddBinaryNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/slidingwindow/LongestSubstringWithoutRepeatingCharacters.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/hashing/MinimumConsecutiveCardsToPickUp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/hashing/MinimumConsecutiveCardsToPickUp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,13 +53,18 @@
     "Application.ContainsDuplicateTwo.executor": "Run",
     "Application.ContiguousArray.executor": "Run",
     "Application.CountingElements.executor": "Run",
+    "Application.EqualRowAndColumnPairs.executor": "Run",
     "Application.FIndLongestSubString.executor": "Run",
     "Application.FindPivotIndex.executor": "Run",
     "Application.FindPlayersWithZeroOrOneLosses.executor": "Run",
+    "Application.FindWordsContainingCharacter.executor": "Run",
     "Application.GroupAnagrams.executor": "Run",
     "Application.IntersectionOfMultipleArrays.executor": "Run",
     "Application.LargestUniqueNumber.executor": "Run",
+    "Application.LongestSubstringWithoutRepeatingCharacters.executor": "Run",
+    "Application.MaxSumOfAPairWithEqualSumOfDigits.executor": "Run",
     "Application.MaximumNumberOfBalloons.executor": "Run",
+    "Application.MaximumOddBinaryNumber.executor": "Run",
     "Application.MinimumConsecutiveCardsToPickUp.executor": "Run",
     "Application.MissingNumber.executor": "Run",
     "Application.SubarraySumEqualsK.executor": "Run",
@@ -90,9 +94,9 @@
       <recent name="main.java.leetcode.hashing" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MinimumConsecutiveCardsToPickUp">
-    <configuration name="ContiguousArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.leetcode.hashing.ContiguousArray" />
+  <component name="RunManager" selected="Application.EqualRowAndColumnPairs">
+    <configuration name="EqualRowAndColumnPairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.leetcode.hashing.EqualRowAndColumnPairs" />
       <module name="leetcodeQuestionsAndAnswers" />
       <extension name="coverage">
         <pattern>
@@ -104,8 +108,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GroupAnagrams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.leetcode.hashing.GroupAnagrams" />
+    <configuration name="LongestSubstringWithoutRepeatingCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.leetcode.slidingwindow.LongestSubstringWithoutRepeatingCharacters" />
+      <module name="leetcodeQuestionsAndAnswers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.leetcode.slidingwindow.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaxSumOfAPairWithEqualSumOfDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.leetcode.hashing.MaxSumOfAPairWithEqualSumOfDigits" />
       <module name="leetcodeQuestionsAndAnswers" />
       <extension name="coverage">
         <pattern>
@@ -117,21 +134,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LargestUniqueNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.leetcode.hashing.LargestUniqueNumber" />
-      <module name="leetcodeQuestionsAndAnswers" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.java.leetcode.hashing.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MaximumNumberOfBalloons" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.leetcode.hashing.MaximumNumberOfBalloons" />
+    <configuration name="MaximumOddBinaryNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.leetcode.hashing.MaximumOddBinaryNumber" />
       <module name="leetcodeQuestionsAndAnswers" />
       <extension name="coverage">
         <pattern>
@@ -158,11 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EqualRowAndColumnPairs" />
+        <item itemvalue="Application.MaxSumOfAPairWithEqualSumOfDigits" />
         <item itemvalue="Application.MinimumConsecutiveCardsToPickUp" />
-        <item itemvalue="Application.GroupAnagrams" />
-        <item itemvalue="Application.ContiguousArray" />
-        <item itemvalue="Application.MaximumNumberOfBalloons" />
-        <item itemvalue="Application.LargestUniqueNumber" />
+        <item itemvalue="Application.LongestSubstringWithoutRepeatingCharacters" />
+        <item itemvalue="Application.MaximumOddBinaryNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -182,7 +186,7 @@
       <option name="presentableId" value="Default" />
       <updated>1708999546042</updated>
       <workItem from="1708999547071" duration="1234000" />
-      <workItem from="1709011962874" duration="47517000" />
+      <workItem from="1709011962874" duration="70607000" />
     </task>
     <task id="LOCAL-00001" summary="Learning techniques of how to approach and solve different algo and ds questions with the best time complexity possible.">
       <option name="closed" value="true" />
@@ -224,7 +228,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709223842110</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="More questions and answers with HashMap and Sliding Window...">
+      <option name="closed" value="true" />
+      <created>1709260235395</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1709260235395</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -237,6 +249,7 @@
     <MESSAGE value="Cleaning the repo.." />
     <MESSAGE value="More questions and answers for Hashing category from LeetCode!" />
     <MESSAGE value="Continuing my journey with LeetCode - 78 questions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Continuing my journey with LeetCode - 78 questions" />
+    <MESSAGE value="More questions and answers with HashMap and Sliding Window..." />
+    <option name="LAST_COMMIT_MESSAGE" value="More questions and answers with HashMap and Sliding Window..." />
   </component>
 </project>
