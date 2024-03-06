@@ -35,7 +35,6 @@ public class EqualRowAndColumnPairs {
         return answer;
     }
 
-
     public static void main(String[] args) {
         System.out.printf("%n%s", equalPairs(new int[][] {{3,1,2,2},{1,4,4,5},{2,4,2,2},{2,4,2,2}}));
     }
