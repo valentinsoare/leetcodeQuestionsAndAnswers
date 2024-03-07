@@ -4,30 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8a75ba92-06f9-4087-ac5a-ed4e941dea34" name="Changes" comment="More questions with sets and hashmaps...coool!">
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/hashing/DestinationCity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/hashing/JewelsAndStones.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/hashing/PathCrossing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/hashing/RansomNote.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/5/35dc34edc2f7f47ff61b3e5f779ad791297b92b2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/5/35f72d0844dcc2079685a362415f505048f9d16e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/4/745bd482540508a9d68004020c99ab6369d9214d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/2/92446c345db81aa8cbc6c45bec020a540feac8d2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/a/aad4f549892f4885dcbc88bf4fc9e9f3ef1da4ab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/f/df4adbde08b8ec35abe07f8ecb8dc4adb8217b17" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/d/fd3dff0c0937d4492e58c7d6c7a5c9fadbaaace9" beforeDir="false" />
+    <list default="true" id="8a75ba92-06f9-4087-ac5a-ed4e941dea34" name="Changes" comment="Questions were we used sets and maps to solve them quickly in O(n).">
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/hashing/CountElementsWithMaximumFrequency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/hashing/FindLuckyIntegerInAnArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/hashing/SumOfUniqueElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/hashing/UniqueNumberOfOccurrences.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/3/5/35dc34edc2f7f47ff61b3e5f779ad791297b92b2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/3/5/35f72d0844dcc2079685a362415f505048f9d16e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/7/4/745bd482540508a9d68004020c99ab6369d9214d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/9/2/92446c345db81aa8cbc6c45bec020a540feac8d2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/a/a/aad4f549892f4885dcbc88bf4fc9e9f3ef1da4ab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/f/df4adbde08b8ec35abe07f8ecb8dc4adb8217b17" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/f/d/fd3dff0c0937d4492e58c7d6c7a5c9fadbaaace9" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/hashing/EqualRowAndColumnPairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/hashing/EqualRowAndColumnPairs.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,10 +50,12 @@
     "Application.CheckIfTheSentenceIsPangram.executor": "Run",
     "Application.ContainsDuplicateTwo.executor": "Run",
     "Application.ContiguousArray.executor": "Run",
+    "Application.CountElementsWithMaximumFrequency.executor": "Run",
     "Application.CountingElements.executor": "Run",
     "Application.DestinationCity.executor": "Run",
     "Application.EqualRowAndColumnPairs.executor": "Run",
     "Application.FIndLongestSubString.executor": "Run",
+    "Application.FindLuckyIntegerInAnArray.executor": "Run",
     "Application.FindPivotIndex.executor": "Run",
     "Application.FindPlayersWithZeroOrOneLosses.executor": "Run",
     "Application.FindWordsContainingCharacter.executor": "Run",
@@ -86,6 +72,8 @@
     "Application.PathCrossing.executor": "Run",
     "Application.RansomNote.executor": "Run",
     "Application.SubarraySumEqualsK.executor": "Run",
+    "Application.SumOfUniqueElements.executor": "Run",
+    "Application.UniqueNumberOfOccurrences.executor": "Run",
     "Downloaded.Files.Path.Enabled": "false",
     "Repository.Attach.Annotations": "true",
     "Repository.Attach.JavaDocs": "true",
@@ -112,9 +100,9 @@
       <recent name="main.java.leetcode.hashing" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PathCrossing">
-    <configuration name="DestinationCity" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.leetcode.hashing.DestinationCity" />
+  <component name="RunManager" selected="Application.UniqueNumberOfOccurrences">
+    <configuration name="CountElementsWithMaximumFrequency" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.leetcode.hashing.CountElementsWithMaximumFrequency" />
       <module name="leetcodeQuestionsAndAnswers" />
       <extension name="coverage">
         <pattern>
@@ -126,21 +114,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EqualRowAndColumnPairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.leetcode.hashing.EqualRowAndColumnPairs" />
-      <module name="leetcodeQuestionsAndAnswers" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.java.leetcode.hashing.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="JewelsAndStones" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.leetcode.hashing.JewelsAndStones" />
+    <configuration name="FindLuckyIntegerInAnArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.leetcode.hashing.FindLuckyIntegerInAnArray" />
       <module name="leetcodeQuestionsAndAnswers" />
       <extension name="coverage">
         <pattern>
@@ -165,8 +140,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RansomNote" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.leetcode.hashing.RansomNote" />
+    <configuration name="SumOfUniqueElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.leetcode.hashing.SumOfUniqueElements" />
+      <module name="leetcodeQuestionsAndAnswers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.leetcode.hashing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UniqueNumberOfOccurrences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.leetcode.hashing.UniqueNumberOfOccurrences" />
       <module name="leetcodeQuestionsAndAnswers" />
       <extension name="coverage">
         <pattern>
@@ -180,11 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UniqueNumberOfOccurrences" />
+        <item itemvalue="Application.FindLuckyIntegerInAnArray" />
+        <item itemvalue="Application.CountElementsWithMaximumFrequency" />
+        <item itemvalue="Application.SumOfUniqueElements" />
         <item itemvalue="Application.PathCrossing" />
-        <item itemvalue="Application.DestinationCity" />
-        <item itemvalue="Application.JewelsAndStones" />
-        <item itemvalue="Application.RansomNote" />
-        <item itemvalue="Application.EqualRowAndColumnPairs" />
       </list>
     </recent_temporary>
   </component>
@@ -205,7 +193,9 @@
       <updated>1708999546042</updated>
       <workItem from="1708999547071" duration="1234000" />
       <workItem from="1709011962874" duration="74326000" />
-      <workItem from="1709693318227" duration="6496000" />
+      <workItem from="1709693318227" duration="7342000" />
+      <workItem from="1709702319432" duration="44000" />
+      <workItem from="1709702435078" duration="9815000" />
     </task>
     <task id="LOCAL-00001" summary="Learning techniques of how to approach and solve different algo and ds questions with the best time complexity possible.">
       <option name="closed" value="true" />
@@ -278,6 +268,18 @@
     <MESSAGE value="Continuing my journey with LeetCode - 78 questions" />
     <MESSAGE value="More questions and answers with HashMap and Sliding Window..." />
     <MESSAGE value="More questions with sets and hashmaps...coool!" />
-    <option name="LAST_COMMIT_MESSAGE" value="More questions with sets and hashmaps...coool!" />
+    <MESSAGE value="Questions were we used sets and maps to solve them quickly in O(n)." />
+    <option name="LAST_COMMIT_MESSAGE" value="Questions were we used sets and maps to solve them quickly in O(n)." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/hashing/UniqueNumberOfOccurrences.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
