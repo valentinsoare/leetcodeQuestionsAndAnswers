@@ -1,0 +1,10 @@
+
+K
+java:S1659
+")Declare "requiredSum" on a separate line.(¯èÖ¿ùÿÿÿÿ8þ«¬…ß1
+C
+java:S1128"&Remove this unused import 'java.util'.(Î€ŒÙ8ÿ«¬…ß1
+Z
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8ÿ«¬…ß1
+Y
+java:S1128"7Remove this unused import 'java.util.stream.IntStream'.(ÙÉ½Ÿùÿÿÿÿ8ÿ«¬…ß1
